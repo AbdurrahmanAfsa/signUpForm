@@ -1,0 +1,14 @@
+body{
+    height: 100vh;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+.leftSide{
+    border: 3px solid blue;
+}
+
+.rightSide{
+    border: 3px solid red;
+}
