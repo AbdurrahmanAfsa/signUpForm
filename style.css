@@ -9,7 +9,7 @@ body{
 .leftSide{
     background-image: url("pictures/halie-west-25xggax4bSA-unsplash.jpg");
     background-size: cover;
-    width: 50%;
+    width: 35%;
     position: relative;
     color: white;
     text-align: center;
@@ -55,12 +55,8 @@ body{
     padding-bottom: 6%;
 }
 
-.form{
-    border: 3px solid violet;
-}
-
 .createAccount{
-    padding-top: 2.5%;
+    padding-top: 5%;
 }
 
 .createAccount button{
@@ -79,4 +75,19 @@ body{
 .createAccount a{
     color: #596D48;
     text-decoration: none;
+}
+
+form{
+    background-color: white;
+    width: 100%;
+}
+
+form div{
+    display: inline-block;
+    width: 35%;
+    padding: 1%;
+}
+
+input{
+    display: block;
 }
