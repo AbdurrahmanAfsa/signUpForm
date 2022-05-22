@@ -45,12 +45,14 @@ body{
 }
 
 .rightSide{
-    border: 3px solid red;
     padding: 5% 2.5%;
+    background-color: #f0f0f0;
+
 }
 
 .paragraph{
-    border: 3px solid blue;
+    font-weight: 900;
+    padding-bottom: 6%;
 }
 
 .form{
@@ -58,5 +60,23 @@ body{
 }
 
 .createAccount{
-    border: 3px solid yellow;
+    padding-top: 2.5%;
+}
+
+.createAccount button{
+    background-color: #596D48;
+    color: white;
+    font-weight: bold;
+    padding: 1% 5%;
+    border-radius: 5px;
+    border-width: 0;
+}
+
+.createAccount p {
+    padding-top: 2%;
+}
+
+.createAccount a{
+    color: #596D48;
+    text-decoration: none;
 }
