@@ -80,7 +80,7 @@ body{
 }
 
 form{
-    padding-left: 2.5%;
+    padding: 1% 0 1% 2.5% ;
     background-color: white;
 }
 
