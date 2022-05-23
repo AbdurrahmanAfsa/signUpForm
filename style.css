@@ -93,7 +93,7 @@ form div{
 
 input{
     display: block;
-    border-color: #e0e0e07e;
+    border: 1.5px solid #d3d3d3;
     border-radius: 3px;
-    border-width: 2px;
+    box-shadow: 0 2px 5px #aaa9a9;
 }
