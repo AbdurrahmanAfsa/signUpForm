@@ -82,6 +82,7 @@ body{
 form{
     padding: 1% 0 1% 2.5% ;
     background-color: white;
+    box-shadow: 0 5px 10px #aaa9a9;
 }
 
 form div{
