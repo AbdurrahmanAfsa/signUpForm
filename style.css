@@ -45,17 +45,19 @@ body{
 }
 
 .rightSide{
-    padding: 5% 2.5%;
+    padding-top: 4%;
     background-color: #f0f0f0;
 
 }
 
 .paragraph{
     font-weight: 900;
+    padding-left: 2.5%;
     padding-bottom: 6%;
 }
 
 .createAccount{
+    padding-left: 2.5%;
     padding-top: 5%;
 }
 
@@ -78,8 +80,8 @@ body{
 }
 
 form{
+    padding-left: 2.5%;
     background-color: white;
-    width: 100%;
 }
 
 form div{
